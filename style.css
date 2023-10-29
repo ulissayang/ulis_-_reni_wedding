@@ -446,9 +446,9 @@ footer li {
 }
 
 /* Mobile phone */
-@media (max-width: 576px) {
+@media (max-width:576px) {
     html {
-        font-size: 60%;
+        font-size: 50%;
     }
 
     .simply-countdown>.simply-section {
@@ -457,12 +457,12 @@ footer li {
     }
 
     .timeline li .timeline-image {
-        width: 80px;
-        height: 80px;
+        width: 70px;
+        height: 70px;
     }
 
     .timeline li .timeline-panel {
-        width: 65%;
+        width: 60%;
         transform: translateX(-20px);
     }
 
