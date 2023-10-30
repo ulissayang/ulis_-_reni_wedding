@@ -477,7 +477,7 @@ footer li {
 /* Mobile phone */
 @media (max-width:576px) {
     html {
-        font-size: 50%;
+        font-size: 60%;
     }
 
     .simply-countdown>.simply-section {
@@ -491,8 +491,8 @@ footer li {
     }
 
     .timeline li .timeline-panel {
-        width: 60%;
-        transform: translateX(-20px);
+        width: 65%;
+        transform: translateX(-10px);
     }
 
     .timeline li .timeline-panel::before {
